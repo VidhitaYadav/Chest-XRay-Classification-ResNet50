@@ -80,7 +80,7 @@ ReduceLROnPlateau
 
 ## Performance
 
-Test Accuracy: 66.11%
+Test Accuracy: 79.59%
 
 Strong performance on:
 
